@@ -1,0 +1,14 @@
+.Accumulator {
+    display: flex;
+    flex-direction: column;
+
+    .Accumulator__form {
+        display: flex;
+        flex: 1;
+
+        input {
+            display: flex;
+            flex: 1;
+        }
+    }
+}
